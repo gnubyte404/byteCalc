@@ -1,6 +1,6 @@
 byteCalc
 
-A lightweight, minimalist, cross-platform desktop calculator built with C++17 and Qt 6.
+A minimalist, cross-platform desktop calculator built with C++17 and Qt 6.
 
 Features
 Minimalist desktop interface
